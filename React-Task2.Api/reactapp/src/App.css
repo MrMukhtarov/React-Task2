@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#card{
+  position: relative;
+}
+img{
+  width: 50%;
+}
+.box{
+  flex: 1;
+  margin: 20px 0;
+}
+.all{
+  border: 1px solid grey;
+  padding: 15px;
+}
+table img{
+  width: 100px;
+}
